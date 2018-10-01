@@ -1,0 +1,5 @@
+[my-config]
+filepath = /home/pavitra/output
+filename = output
+delimiter = ,
+date_format= %d/%m/%Y
